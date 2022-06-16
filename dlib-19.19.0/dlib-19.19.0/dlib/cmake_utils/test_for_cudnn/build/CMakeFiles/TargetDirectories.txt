@@ -1,0 +1,3 @@
+/home/davis/source/dlib/dlib/cmake_utils/test_for_cudnn/build/CMakeFiles/rebuild_cache.dir
+/home/davis/source/dlib/dlib/cmake_utils/test_for_cudnn/build/CMakeFiles/cudnn_test.dir
+/home/davis/source/dlib/dlib/cmake_utils/test_for_cudnn/build/CMakeFiles/edit_cache.dir

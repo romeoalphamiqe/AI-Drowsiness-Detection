@@ -1,0 +1,3 @@
+/home/davis/source/dlib/dlib/cmake_utils/test_for_cuda/build/CMakeFiles/rebuild_cache.dir
+/home/davis/source/dlib/dlib/cmake_utils/test_for_cuda/build/CMakeFiles/cuda_test.dir
+/home/davis/source/dlib/dlib/cmake_utils/test_for_cuda/build/CMakeFiles/edit_cache.dir
