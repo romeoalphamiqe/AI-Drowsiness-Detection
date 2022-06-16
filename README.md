@@ -18,4 +18,6 @@ Rama
 Miko
 Ryan
 
+LINK APLIKASI (run difolder\main\main.py yaaa;p) = https://drive.google.com/file/d/1b40o0VKDuHt62QviC7fKEeyZG1UoHzSM/view?usp=sharing
+
 :)
