@@ -1,4 +1,4 @@
-# si_paling_orbit
+# AI VIRTUAL MOUSE PYTHON
 Projek Akhir Orbit Gen Z - 2022
 
 jika ingin memodifikasi file, silahkan buka folder ProjekMentah
