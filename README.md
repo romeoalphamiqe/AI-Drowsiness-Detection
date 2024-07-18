@@ -1,4 +1,4 @@
-# AI VIRTUAL MOUSE PYTHON
+# AI DROWSINESS DETECTION PYTHON
 Projek Akhir Orbit Gen Z - 2022
 
 jika ingin memodifikasi file, silahkan buka folder ProjekMentah
